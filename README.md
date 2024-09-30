@@ -129,3 +129,10 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+
+
+User stories: 
+[The user stories for this project](https://github.com/users/Borys-777/projects/3) 
+
+
