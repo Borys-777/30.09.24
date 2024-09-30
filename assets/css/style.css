@@ -45,7 +45,7 @@ rgb(144, 229, 160)
 .footer {
   background-color: #018749;
   height: 43px;
-  margin: -8px 0px 0px 0px;
+  margin: 5px 0px 0px 0px;
   text-align: center;
   padding: 20px;
   /*
@@ -75,11 +75,16 @@ rgb(144, 229, 160)
 }
 
 #hero {
-  height: 600px;
+  height: 450px;
   width: 100%;
   background-image: url(../images/foto1.webp);
   background-size: 100vw 81vh;
   margin: 0px -20px 0px 0px;
+  background-repeat: no-repeat;
+}
+
+li {
+  display: inline;
 }
 
 /* url(assets/images/foto1.webp) */
