@@ -123,18 +123,32 @@ li {
 }
 
 .useful-hero {
-  height: 450px;
+  height: 200px;
   width: 100%;
-  background-image: url(..//images/cork.webp);
+  background-image: url(..//images/ireland3.png);
   background-size: 100vw 81vh;
-  margin: 0px -20px 0px 0px;
+  margin: 0px -0px 0px 0px;
   background-repeat: no-repeat;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 500px) {
 #cover-text {
   font-size: 60%;
 }
+}
+
+.align-center {
+  text-align: center;
+  font-size: 20px;
+}
+
+table {
+  width: 100%;
+}
+
+table, td, th {
+  border: 1px solid black;
 }
 
 /* url(assets/images/foto1.webp) */
