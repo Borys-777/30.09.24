@@ -116,5 +116,9 @@ li {
 
 }
 
+.useful {
+  color: black;
+}
+
 /* url(assets/images/foto1.webp) */
 /* background: url(assets/images/foto1.webp) no-repeat center center/cover;  */
