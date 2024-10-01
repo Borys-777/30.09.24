@@ -84,13 +84,15 @@ rgb(144, 229, 160)
 }
 
 .nav-buttons {
-  display: inline;
+  display: flex;
+  list-style-type: none;
   letter-spacing: 2px;
   margin-right: 7px;
 }
 
 .five-domains {
-  display: block;
+  display: flex;
+  list-style-type: none;
 }
 
 ul{
@@ -109,8 +111,10 @@ li a:hover {
   color: #ffdd57;
 }
 
+li {
+  margin-right: 0.5rem;
 
-
+}
 
 /* url(assets/images/foto1.webp) */
 /* background: url(assets/images/foto1.webp) no-repeat center center/cover;  */
