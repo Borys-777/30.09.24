@@ -83,10 +83,14 @@ rgb(144, 229, 160)
   background-repeat: no-repeat;
 }
 
-li {
+.nav-buttons {
   display: inline;
   letter-spacing: 2px;
   margin-right: 7px;
+}
+
+.five-domains {
+  display: block;
 }
 
 ul{
@@ -104,6 +108,8 @@ li a:hover {
   background-color: #575757;
   color: #ffdd57;
 }
+
+
 
 
 /* url(assets/images/foto1.webp) */
