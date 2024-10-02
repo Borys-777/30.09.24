@@ -162,3 +162,7 @@ table, td, th {
 .div-main {
   font-size: larger;
 }
+
+th {
+  font-size: larger;
+}
