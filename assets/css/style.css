@@ -119,6 +119,8 @@ li {
 
 .useful {
   color: black;
+  font-size: medium;
+  text-decoration: underline;
 }
 
 .useful-hero {
