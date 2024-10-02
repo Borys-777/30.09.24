@@ -137,6 +137,12 @@ li {
 #cover-text {
   font-size: 60%;
 }
+table, td, th {
+  font-size: 60%;
+}
+.useful {
+  font-size: 60%;
+}
 }
 
 .align-center {
@@ -150,6 +156,7 @@ table {
 
 table, td, th {
   border: 1px solid black;
+  
 }
 
 .div-main {
