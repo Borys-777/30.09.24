@@ -115,7 +115,6 @@ li a:hover {
 
 li {
   margin-right: 0.5rem;
-
 }
 
 .useful {
@@ -150,6 +149,3 @@ table {
 table, td, th {
   border: 1px solid black;
 }
-
-/* url(assets/images/foto1.webp) */
-/* background: url(assets/images/foto1.webp) no-repeat center center/cover;  */
